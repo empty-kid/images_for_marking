@@ -1,0 +1,8 @@
+INPUT:image_a	INPUT:image_b	GOLDEN:result	HINT:text
+https://github.com/NikitaKukuzey/tmp_imgs/blob/main/v2/orig.jpg?raw=true	https://github.com/NikitaKukuzey/tmp_imgs/blob/main/v2/sr.png?raw=true	3	Изображение выглядит сглаженно и немного неестественно. Основные детали сохранены.
+https://github.com/NikitaKukuzey/tmp_imgs/blob/main/v6/orig.jpg?raw=true	https://github.com/NikitaKukuzey/tmp_imgs/blob/main/v6/sr.png?raw=true	1	Значительно искажены зебры.
+https://github.com/NikitaKukuzey/tmp_imgs/blob/main/v11/orig.jpg?raw=true	https://github.com/NikitaKukuzey/tmp_imgs/blob/main/v11/sr.png?raw=true	5	Увеличенное изображение выглядит чётко и без искажений.
+https://github.com/NikitaKukuzey/tmp_imgs/blob/main/v13/orig.jpg?raw=true	https://github.com/NikitaKukuzey/tmp_imgs/blob/main/v13/sr.png?raw=true	1	Указатель выглядит как клякса, распознать какую-бы то ни было информацию невозможно.
+https://github.com/NikitaKukuzey/tmp_imgs/blob/main/v14/orig.jpg?raw=true	https://github.com/NikitaKukuzey/tmp_imgs/blob/main/v14/sr.png?raw=true	4	Изображение хорошего качества.
+https://github.com/NikitaKukuzey/tmp_imgs/blob/main/v15/orig.jpg?raw=true	https://github.com/NikitaKukuzey/tmp_imgs/blob/main/v15/sr.png?raw=true	4	Изображение хорошего качества.
+https://github.com/NikitaKukuzey/tmp_imgs/blob/main/v19/orig.jpg?raw=true	https://github.com/NikitaKukuzey/tmp_imgs/blob/main/v19/sr.png?raw=true	2	Изображения сильно искажено, однако в нём угадываются очертания зданий.
